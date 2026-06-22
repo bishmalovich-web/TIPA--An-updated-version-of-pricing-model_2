@@ -1,9 +1,9 @@
 {
-  "name": "TIPA Full Data V5",
-  "short_name": "TIPA V5",
-  "start_url": "./index.html?v=5",
+  "name": "TIPA Full Correct V6",
+  "short_name": "TIPA V6",
+  "start_url": "./index.html?v=6",
   "display": "standalone",
-  "theme_color": "#19c3d7",
+  "theme_color": "#19bfd5",
   "background_color": "#effcfc",
   "icons": [
     {
