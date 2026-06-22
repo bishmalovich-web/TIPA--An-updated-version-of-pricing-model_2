@@ -1,10 +1,10 @@
 {
-  "name": "TIPA Pricing FIXED V3",
-  "short_name": "TIPA V3",
-  "start_url": "./index.html?v=3",
+  "name": "TIPA Full Data V5",
+  "short_name": "TIPA V5",
+  "start_url": "./index.html?v=5",
   "display": "standalone",
-  "theme_color": "#11bfd7",
-  "background_color": "#eefdff",
+  "theme_color": "#19c3d7",
+  "background_color": "#effcfc",
   "icons": [
     {
       "src": "icon-192.png",
