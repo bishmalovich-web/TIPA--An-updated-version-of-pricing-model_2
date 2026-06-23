@@ -1,20 +1,24 @@
 {
-  "name": "TIPA Full Correct V6",
-  "short_name": "TIPA V6",
-  "start_url": "./index.html?v=6",
+  "name": "TIPA Full Calculator",
+  "short_name": "TIPA Calc",
+  "description": "TIPA full pricing calculator with Films, Laminates and Marma/Bastin tabs.",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
-  "theme_color": "#19bfd5",
-  "background_color": "#effcfc",
+  "background_color": "#eefbfe",
+  "theme_color": "#10bcd6",
   "icons": [
     {
       "src": "icon-192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
