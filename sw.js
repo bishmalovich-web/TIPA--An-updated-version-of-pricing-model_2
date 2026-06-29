@@ -1,1 +1,1 @@
-const CACHE='tipa-full-calc-v1';const ASSETS=['./','./index.html','./manifest.webmanifest','./icon.svg','./data.js'];self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS))));self.addEventListener('fetch',e=>e.respondWith(caches.match(e.request).then(r=>r||fetch(e.request))));
+const CACHE='tipa-final-friendly-excel-v5';self.addEventListener('install',e=>self.skipWaiting());self.addEventListener('fetch',e=>{});

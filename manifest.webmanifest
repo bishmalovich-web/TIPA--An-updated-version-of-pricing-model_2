@@ -3,13 +3,6 @@
   "short_name": "TIPA Calc",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#07111f",
-  "theme_color": "#0f766e",
-  "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "512x512",
-      "type": "image/svg+xml"
-    }
-  ]
+  "background_color": "#0b3a42",
+  "theme_color": "#16a394"
 }

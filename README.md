@@ -1,5 +1,3 @@
-# TIPA Full Pricing Calculator PWA
-
-Upload all files to GitHub repository root and enable GitHub Pages: Settings → Pages → Branch main → / (root).
-
-Included: 3 tabs (Films, Laminates, Marma/Bastin), PWA manifest, offline service worker, install option, and Excel-derived data. Margin is entered/displayed as percentage (25%) and calculated internally as 0.25.
+Password: TIPA2026
+Fixed: better Excel matching, no margin in Lamination/Printing/Slitting, dark teal background, friendlier UI.
+Counts: {'filmPrice': 9, 'structures': 13, 'rates': 20, 'converting': 36, 'shipping': 3, 'filmRows': 3, 'lamRows': 3}

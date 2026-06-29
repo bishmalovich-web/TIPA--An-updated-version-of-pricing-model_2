@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "counts": {
+    "filmPrice": 9,
+    "structures": 13,
+    "rates": 20,
+    "converting": 36,
+    "shipping": 3,
+    "filmRows": 3,
+    "lamRows": 3
+  },
+  "password": "TIPA2026",
+  "fixes": [
+    "Excel row matching",
+    "no margin in service modules",
+    "dark teal friendly UI",
+    "self-contained data"
+  ]
+}
