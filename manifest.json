@@ -1,0 +1,15 @@
+{
+  "name": "TIPA Full Pricing Calculator",
+  "short_name": "TIPA Calc",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f4c81",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
